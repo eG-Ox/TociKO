@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 data/
 models/
+runs/
 .env
 .env.*
 !.env.example
